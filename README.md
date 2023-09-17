@@ -1,4 +1,4 @@
- ![MasterHead](https://wallpapercave.com/wp/wp4974478.jpg)
+ ![MasterHead]([https://wallpapercave.com/wp/wp4974478.jpg](https://cdn-images-1.medium.com/max/688/1*82D2cg8Gpe9CVISaph6RPg.gif))
 <h1 align="center">Hi 👋, I'm Shamil Nazarov</h1>
 <h3 align="center">Frontend developer</h3>
 
