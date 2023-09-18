@@ -1,4 +1,4 @@
- ![MasterHead](https://as2.ftcdn.net/v2/jpg/03/44/17/87/1000_F_344178721_CyhVfjDIsl42Me7DpdRT5UOHmbmfG0qI.jpg)
+ ![MasterHead](https://img.freepik.com/free-vector/development-typographic-header-presenting-content-web-pages-website-layout-composition-color-development-idea-computer-technology-flat-vector-illustration_613284-2493.jpg?w=1060&t=st=1694995392~exp=1694995992~hmac=814b5bb80ac837cd59642a85759398fdff307acc8a85248742addd1889dfd187)
 <h1 align="center">Hi 👋, I'm Shamil Nazarov</h1>
 <h3 align="center">Frontend developer</h3>
 
